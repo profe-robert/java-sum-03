@@ -4,4 +4,4 @@ Defina un caso, sencillo, de negocio e implemente una solución en JAVA POO con 
 
 Entrega 04 de diciembre 23:59 (nota máxima 7.0), cada dia de retraso 1.0 punto menos hasta el viernes 05 de diciembre:
 - Archivo .ZIP con proyecto
-- Nombre de los integrantes del equipo (dos personas como máximo)
+- Nombre de los integrantes del equipo (tres personas como máximo)
